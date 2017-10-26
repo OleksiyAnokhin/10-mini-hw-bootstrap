@@ -1,0 +1,47 @@
+---
+title: "Mini HW 10 - Bootstrap intervals"
+author: "[Team name]"
+date: "October 26, 2017"
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    keep_md: yes
+    theme: sandstone
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Load packages
+
+```{r load-packages, message=FALSE}
+# load any packages needed
+```
+
+### Set seed
+
+```{r set-seed}
+# set a seed
+```
+
+
+### Assignment
+
+#### Movies
+
+```{r load-data-movies}
+# load movies data
+```
+
+(Add question numbers, your answers, and code chunks as needed.)
+
+#### General Social Survey
+
+```{r load-data-gss}
+# load gss data
+```
+
+(Add question numbers, your answers, and code chunks as needed.)
+
